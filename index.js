@@ -2,5 +2,5 @@
 var kittens = ["Milo", "Otis", "Garfield"]
 
 function destructivelyAppendKitten(name){
-  return kittens.upshift(name)
+  return kittens.upShift(name)
 }
